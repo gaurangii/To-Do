@@ -20,19 +20,19 @@ Task Management is a web-based application designed to help users efficiently ma
 Follow these steps to set up the project locally:
 
 1. *Clone the Repository* : 
-   bash
+   
    git clone https://github.com/gaurangii/To-Do.git
    cd Task-Management
    
 
 2. *Install Dependencies* :
-   bash
+   
    npm install
    
 
 3. *Run the Application*
-   bash
-   npm run start
+   
+   npm run dev
    
 
    The application will be available at http://localhost:3000.
